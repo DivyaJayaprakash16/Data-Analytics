@@ -1,2 +1,2 @@
-# Predictive-Analytics-Exploratory-Analysis
-SAS, R, QlikView
+# Predictive Analytics and Exploratory Analysis
+SAS Programming, R Programming, SAS Enterprise Miner
